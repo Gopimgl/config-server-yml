@@ -5,4 +5,11 @@ spring:
   application:
     name: ClientService1
 
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
+
 message: Hello from Service 1000
