@@ -5,4 +5,4 @@ spring:
   application:
     name: ClientService1
 
-message: Hello from Service 1
+message: Hello from Service 1000
