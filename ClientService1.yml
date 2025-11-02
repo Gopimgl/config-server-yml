@@ -3,6 +3,6 @@ server:
 
 spring:
   application:
-    name: service1
+    name: ClientService1
 
 message: Hello from Service 1
