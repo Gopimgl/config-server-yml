@@ -5,6 +5,12 @@ spring:
   application:
     name: ClientService1
 
+    
+eureka:
+  instance:
+    status-page-url-path: /
+    health-check-url-path: /actuator/health
+
 
 management:
   endpoints:
